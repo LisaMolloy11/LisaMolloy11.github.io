@@ -1,0 +1,86 @@
+body {
+background-color: #e699ff;
+
+margin: 0%;
+
+
+font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: left;
+
+    padding: 0%;
+
+    color: white;
+
+    border: 2px white;
+    border-style: dotted;
+
+    margin: 3px 40% 2px 40% ;
+
+    text-align: center;
+    font-style: italic;
+
+    
+}
+
+h2 {
+    margin: 0%;
+    text-align: center;
+}
+
+p {
+    margin: 0%;
+
+    
+}
+
+
+
+.about {
+    background-color: #ecb3ff;
+    text-align: center;
+    margin: 0%;
+    height: 250px;
+    padding: 0 30% 0 30%;
+}
+
+.background {
+    background-color: #f2ccff;
+    text-align: center;
+    padding: 0 30% 0 30%;
+    height: 250px;
+}
+
+.riley {
+    background-color: #f9e6ff;
+    text-align: left;
+    height: 250px;
+    padding: 0 30% 0 30%;
+}
+
+.about img {
+   height: 190px;
+    float: left;
+    padding: 10px;
+}
+
+
+.riley img {
+
+    width: 30%;
+    float: right;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+    background-color: #e699ff;
+    border: 1px solid purple;
+}
